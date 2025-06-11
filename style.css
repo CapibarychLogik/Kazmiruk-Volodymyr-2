@@ -1,3 +1,35 @@
+h1, h2, h3{
+    text-align: center;
+
+}
+img{
+    
+     height: 50px;
+     width: 120px;
+
+}
+nav a{
+
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 25px;
+    
+
+
+}
+
+nav{
+    text-align: center;
+}
+
+h3{
+
+   font-size: 30px;
+
+}
 body{
-	background: grey;
+     font-family:'Courier New', Courier, monospace;
+     background-color: azure;
 }
