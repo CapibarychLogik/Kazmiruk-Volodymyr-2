@@ -3,15 +3,16 @@ h1, h2, h3{
 
 }
 img{
-    
-     height: 50px;
+    padding: 30px 20px;
+     height: 105px;
      width: 120px;
+     border-radius: 10px;
 
 }
 nav a{
 
     background-color: aqua;
-    color: black;
+    color: navy;
     border-radius: 10px;
     text-decoration: none;
     padding: 10px 25px;
@@ -31,5 +32,23 @@ h3{
 }
 body{
      font-family:'Courier New', Courier, monospace;
-     background-color: azure;
+     background-color: cornsilk
+}
+footer p{
+
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background-color: cadetblue;
+
+    
+}
+main p{
+
+    background-color: grey;
+    border-radius: 5px;
+}
+h1{
+
+    font-size: 50px;
 }
